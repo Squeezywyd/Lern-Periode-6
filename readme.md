@@ -24,12 +24,23 @@ Meine Erwartungen an Herr Meyer sind, dass ich jeweils immer hilfreiches Feedbac
 ## Arbeitspakete für 23.08.2024
 
 
-- [ ] Nicht erledigte Aufträge aus dem Modul 320 nachholen.
+- [x] Nicht erledigte Aufträge aus dem Modul 320 nachholen.
 
-- [ ] Mir einen guten Überblick verschaffen, was mich alles erwartet im Modul 320.
+- [x] Mir einen guten Überblick verschaffen, was mich alles erwartet im Modul 320.
 
-- [ ] Aufträge aus dem Modul 320 reflektieren und vertiefen.
+- [x] Aufträge aus dem Modul 320 reflektieren und vertiefen.
 
-- [ ] Nicht erledigte Aufträge aus dem Modul 231 nachholen.
+- [x] Nicht erledigte Aufträge aus dem Modul 231 nachholen.
+
+
+
+## Arbeitspakete für 30.08.2024
+
+- [ ] Aufträge aus dem HZ2 von Modul 320 nacharbeiten.
+- [ ] HZ2 aus Modul 231 abschliessen
+- [ ] Feld und Eigenschaften aus Modul 320 reflektieren und anwenden
+
+
+
 
 ✍️  Haken Sie am Ende die Arbeitspakete ab, die Sie erledigen konnten. Schreiben Sie ggf. eine kurze Erklärung, was gut geklappt hat oder warum etwas nicht erreicht werden konnte.
