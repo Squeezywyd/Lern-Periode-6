@@ -36,9 +36,17 @@ Meine Erwartungen an Herr Meyer sind, dass ich jeweils immer hilfreiches Feedbac
 
 ## Arbeitspakete für 30.08.2024
 
-- [ ] Aufträge aus dem HZ2 von Modul 320 nacharbeiten.
+- [x] Aufträge aus dem HZ2 von Modul 320 nacharbeiten.
 - [ ] HZ2 aus Modul 231 abschliessen
-- [ ] Feld und Eigenschaften aus Modul 320 reflektieren und anwenden
+- [x] Feld und Eigenschaften aus Modul 320 reflektieren und anwenden
+
+
+
+## Arbeitspakete für 06.09.2024
+
+- [ ] Aufträge aus dem Modul 231, HZ3 nacharbeiten.
+- [ ] HZ3 vom Modul 320 bearbeiten.
+- [ ] Polymorphismus aus dem Moduk 320 reflektieren und anwenden
 
 
 
