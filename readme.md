@@ -44,9 +44,17 @@ Meine Erwartungen an Herr Meyer sind, dass ich jeweils immer hilfreiches Feedbac
 
 ## Arbeitspakete für 06.09.2024
 
-- [ ] Aufträge aus dem Modul 231, HZ3 nacharbeiten.
-- [ ] HZ3 vom Modul 320 bearbeiten.
-- [ ] Polymorphismus aus dem Moduk 320 reflektieren und anwenden
+- [x] Aufträge aus dem Modul 231, HZ3 nacharbeiten.
+- [x] HZ3 vom Modul 320 bearbeiten.
+- [x] Polymorphismus aus dem Moduk 320 reflektieren und anwenden
+
+
+
+## Arbeitspakete für 13.09.2024
+
+- [ ] AUfträge aus dem HZ4 für das Modul 231 fertig machen.
+- [ ] HZ3 vom Modul 320 nacharbeiten
+- [ ] Thema Vererbung aus dem Modul 320 vertiefen
 
 
 
