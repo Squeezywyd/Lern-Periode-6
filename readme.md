@@ -52,9 +52,16 @@ Meine Erwartungen an Herr Meyer sind, dass ich jeweils immer hilfreiches Feedbac
 
 ## Arbeitspakete für 13.09.2024
 
-- [ ] AUfträge aus dem HZ4 für das Modul 231 fertig machen.
+- [x] AUfträge aus dem HZ3 für das Modul 231 fertig machen.
+- [x] HZ3 vom Modul 320 nacharbeiten
+- [x] Thema Vererbung aus dem Modul 320 vertiefen
+
+
+## Arbeitspakete für 20.09.2024
+
+- [ ] AUfträge aus dem HZ5 für das Modul 231 fertig machen.
 - [ ] HZ3 vom Modul 320 nacharbeiten
-- [ ] Thema Vererbung aus dem Modul 320 vertiefen
+- [ ] Anfangen mit OBA LeftRightCenter aus Modul 320
 
 
 
