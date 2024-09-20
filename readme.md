@@ -59,10 +59,28 @@ Meine Erwartungen an Herr Meyer sind, dass ich jeweils immer hilfreiches Feedbac
 
 ## Arbeitspakete für 20.09.2024
 
-- [ ] AUfträge aus dem HZ5 für das Modul 231 fertig machen.
-- [ ] HZ3 vom Modul 320 nacharbeiten
+- [x] AUfträge aus dem HZ5 für das Modul 231 fertig machen.
+- [x] HZ3 vom Modul 320 nacharbeiten
 - [ ] Anfangen mit OBA LeftRightCenter aus Modul 320
 
+## Reflexion
+
+- Was habe ich mitgenommen:
+
+Ich habe mich heute hauptsächlich mit dem Thema **Assoziationen** in C# auseinandergesetzt. Ich hatte anfangs ein paar Probleme damit, das ganze selbst anzuwenden, weil es sehr Komplex funktioniert hatte. Jedoch nachdem ich die Powerpoint-Präsentation durchgearbeitet habe und das ganze in der Praxis noch etwas gepbt wurde mir das ganze viel verständlicher und ich konnte es für die Aufträge anwenden.
+
+Schlussendlich bin ich also zum folgendem Fazit über das Thema Assoziationen gekommen:
+*Assoziationen sind ein zentrales Konzept in der objektorientierten Programmierung, da sie die Beziehungen zwischen Klassen definieren. Sie helfen dabei, komplexe Systeme zu modellieren, indem sie festlegen, wie Objekte miteinander interagieren und wie ihre Lebenszyklen verknüpft sind.*
+
+
+- Unterstützung brauche ich momentan deshalb keine mehr.
+
+
+## Arbeitspakete für 27.09.2024
+
+- [ ] AUfträge aus dem HZ4 und HZ6 für das Modul 231 fertig machen.
+- [ ] HZ4 vom Modul 320 nacharbeiten
+- [ ] Anfangen mit OBA LeftRightCenter aus Modul 320
 
 
 
